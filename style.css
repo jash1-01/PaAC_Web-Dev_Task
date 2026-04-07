@@ -1,0 +1,188 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  background-color: white;
+}
+
+.header-container {
+  padding: 20px 40px;
+}
+
+.top-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 20px;
+}
+
+.center-logo h1 {
+  font-family: "Hoefler Text", "Adobe Garamond Pro", "Garamond", serif;
+  font-size: 43px;
+  font-weight: normal;
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+.line-break {
+  border: none;
+  border-top: 1px solid #d1d5db;
+  margin: 0;
+}
+
+.bottom-section {
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+  padding-top: 20px;
+}
+
+.bottom-section a {
+  text-decoration: none;
+  color: #0f172a;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.bottom-section:hover {
+  background-color: #0f172a ;
+}
+
+.bottom-section:hover a {
+  color: white;
+}
+
+.script:hover {
+    opacity: 0.70;
+}
+.cinemato:hover {
+    opacity: 0.70;
+}
+.editing:hover {
+    opacity: 0.70;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.header-container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.top-section {
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.line-break {
+  width: 100%;
+  margin: 0;
+}
+
+.image-container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.cover-image {
+  width: 100%;
+  display: block;
+}
+
+.bottom-section {
+  padding-bottom: 20px;
+  transition: 0.3s;
+}
+
+.intro-text {
+    max-width: 800px;
+    margin: 100px;
+    padding: 20px;
+    margin-left: 350px;
+}
+
+
+
+.a1 {
+    margin-top: 400px;
+    font-size: 30px;
+    line-height: 1.5;
+    color: #4b5563;
+    text-align: left;
+    display: block;
+    margin-top: 40px;
+}
+.a2 {
+    margin-top: 400px;
+    font-size: 19px;
+    line-height: 1.5;
+    color: #4b5563;
+    text-align: left;
+    display: block;
+    margin-top: 8px;
+}
+.intro-text p {
+    font-size: 19px;
+    line-height: 1.5;
+    color: #4b5563;
+    text-align: left;
+    margin-top : 40px;
+}
+
+ .scriptwriting {
+  font-size: 19px;
+  line-height: 1.5;
+  color: #4b5563;
+  text-align: left;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+.script-image {
+  display: block;
+  margin: 40px auto; 
+  max-width: 100%;
+  height: auto;
+}
+
+.story-board {
+  display: block;
+  margin: 40px auto; 
+  max-width: 100%;
+  height: auto;
+}
+.cinematography {
+  font-size: 19px;
+  line-height: 1.5;
+  color: #4b5563;
+  text-align: left;
+  max-width: 800px;
+  margin: auto;
+}
+.Cinemato{
+  display: block;
+  margin: 40px auto; 
+  max-width: 100%;
+  height: auto;
+}
+.Editing{
+   font-size: 19px;
+  line-height: 1.5;
+  color: #4b5563;
+  text-align: left;
+  max-width: 800px;
+  margin: auto;
+}
+
+
+
+
